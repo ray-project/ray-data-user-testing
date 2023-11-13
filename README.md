@@ -2,10 +2,4 @@
 This repository including a task to do model training with Ray Data. During testing, you will help us train image classifier model in multi-GPU Anyscale cluster.
 
 ## Getting Started
-On terminal of Anyscale workspace, run:
-
-```
-git clone https://github.com/ray-project/ray-data-user-testing.git .
-```
-
 Open Python notebook `user_test.ipynb` to start the task!
